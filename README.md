@@ -1,3 +1,4 @@
+<img width="2379" height="1184" alt="1000141322" src="https://github.com/user-attachments/assets/8f7cc276-26de-45b9-a11a-5ebca7e03733" />
 # ATSAMC21J15 – Rectifier CAN Interface (Classic CAN, 29-bit EID)
 
 **Author:** Sripad Madhusudan Upadhyaya • **License:** MIT
